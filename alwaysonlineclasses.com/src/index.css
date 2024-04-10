@@ -1,0 +1,29 @@
+:root{
+	--body-color: #000;
+	--body-bg-color: #f8f8f8;
+	--sub-body-color: #444;
+	--main-color: #3E4095;
+	--active-color: #090;
+	--primary-color: #F7941C;
+	--sub-secondary-color: #f39a2eea;
+	--white-color: #fff;
+	--close-color: #f00;
+	--rgba-color: rgba(255,255,255,.3);
+	--bg-color: #eeeeee;
+	--subbg-color:#fafafa;
+  --hover-color: #6b6868;
+}
+
+
+body {
+  margin:0px;
+	padding:0px;
+	font-size:15px;
+	top:0 !important;
+  /* background: #f1f1f1;  */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
